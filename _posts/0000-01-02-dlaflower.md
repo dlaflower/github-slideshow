@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"be here now, quoth the raven, nevermore"
 Use the left arrow to go back!
